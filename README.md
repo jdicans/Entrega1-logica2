@@ -22,6 +22,5 @@
 
 1. Agrega 5 ciudades iniciales a la lista.
 2. Recorre la lista hacia adelante y encuentra el nombre más largo de las ciudades.
-3. Inserta una nueva ciudad entre la segunda y la tercera posición de la lista.
 4. Elimina una ciudad específica de la lista.
 5. Imprime la lista final en orden hacia atrás.
